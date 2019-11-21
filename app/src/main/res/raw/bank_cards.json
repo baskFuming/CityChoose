@@ -1,0 +1,78 @@
+[
+  {
+    "bank_icon": "bank_cmb",
+    "bank_name": "招商银行"
+  },
+  {
+    "bank_icon": "bank_icbc",
+    "bank_name": "中国工商银行"
+  },
+  {
+    "bank_icon": "bank_ccb",
+    "bank_name": "中国建设银行"
+  },
+  {
+    "bank_icon": "bank_ceb",
+    "bank_name": "中国光大银行"
+  },
+  {
+    "bank_icon": "bank_abc",
+    "bank_name": "中国农业银行"
+  },
+  {
+    "bank_icon": "bank_boc",
+    "bank_name": "中国银行"
+  },
+  {
+    "bank_icon": "bank_bocom",
+    "bank_name": "交通银行"
+  },
+  {
+    "bank_icon": "bank_posb",
+    "bank_name": "中国邮政储蓄银行"
+  },
+  {
+    "bank_icon": "bank_cib",
+    "bank_name": "兴业银行"
+  },
+  {
+    "bank_icon": "bank_cgb",
+    "bank_name": "广发银行"
+  },
+  {
+    "bank_icon": "bank_sdbc",
+    "bank_name": "深圳发展银行"
+  },
+  {
+    "bank_icon": "bank_cmsbc",
+    "bank_name": "中国民生银行"
+  },
+  {
+    "bank_icon": "bank_spdb",
+    "bank_name": "上海浦东发展银行"
+  },
+  {
+    "bank_icon": "bank_hxb",
+    "bank_name": "华夏银行"
+  },
+  {
+    "bank_icon": "bank_citic",
+    "bank_name": "中信银行"
+  },
+  {
+    "bank_icon": "bank_nbb",
+    "bank_name": "宁波银行"
+  },
+  {
+    "bank_icon": "bank_pab",
+    "bank_name": "平安银行"
+  },
+  {
+    "bank_icon": "bank_jscb",
+    "bank_name": "江苏银行"
+  }
+]
+
+
+
+

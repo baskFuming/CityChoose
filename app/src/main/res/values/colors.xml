@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bgGrey">#f0f1f5</color>
+    <color name="bgEditText">#FFFFFF</color>
+    <color name="borderEditText">#E8E8E8</color>
+    <color name="bgButton">#55BBEB</color>
+    <color name="bgWhite">#FFFFFF</color>
+    <color name="bgWhite_opacity">#50FFFFFF</color>
+    <color name="bgWhite_opacity_9">#90FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black34">#222222</color>
+    <color name="black21">#212121</color>
+    <color name="grey190">#BEBEBE</color>
+    <color name="grey1901">#e7e5e5</color>
+    <color name="grey90">#5A5A5A</color>
+    <color name="blue">#55BBEB</color>
+    <color name="blue_v2">#196daf</color>
+    <color name="red">#d83548</color>
+    <color name="red_v2">#ee5852</color>
+    <color name="red_v4">#DB493B</color>
+    <color name="lake">#69c8a3</color>
+    <color name="bgButtonGreen">#26a760</color>
+    <color name="orange">#ff7901</color>
+    <color name="transGrey">#80f5f5f5</color>
+    <color name="transWhite">#80ffffff</color>
+    <color name="actionbar_opacity">#33000000</color>
+    <color name="actionbar_opacity_scan">#00000000</color>
+    <color name="title_opacity">#40000000</color>
+    <color name="idcard_opacity">#50222222</color>
+
+    <color name="scan_corner_color">#FFFFFF</color>
+
+    <color name="notify_opacity">#d9eef6</color>
+    <color name="divider5c5c5">#5c5c5c</color>
+    <color name="navTitleColor">#b6c5dc</color>
+    <color name="btnTitleColor">#3d88f6</color>
+    <color name="btnBgColor">#586897</color>
+    <color name="tradeTitleColor">#e7f2ff</color>
+    <color name="btnBgWColor">#098b82</color>
+    <color name="originWColor">#ff9974</color>
+    <color name="eightColor">#888888</color>
+
+    <!--2.0开始添加颜色-->
+    <color name="mainColor">#196daf</color>
+    <color name="defaultBgButton">#196daf</color>
+    <color name="clickBgButton">#165a90</color>
+    <color name="disabledBgButton">#abcee9</color>
+    <color name="seperatorBG">#ececec</color>
+    <color name="textAAA">#aaaaaa</color>
+    <color name="swtColor">#54bcea</color>
+    <color name="cnyColor">#ea6a76</color>
+    <color name="usdColor">#a4d169</color>
+    <color name="dddColor">#dddddd</color>
+    <color name="da9Color">#da9c66</color>
+    <color name="fc3Color">#5fc3c9</color>
+    <color name="f78Color">#f78424</color>
+    <color name="a8dColor">#a8bfb9</color>
+
+    <color name="whiteFE">#FEFEFE</color>
+    <color name="whiteFE2">#00fefefe</color>
+    <color name="whiteFE3">#90fefefe</color>
+
+    <color name="gray_e">#A9A9A9</color>
+    <color name="gray_999a99">#999a99</color>
+    <color name="gray">#8c8c8c</color>
+    <color name="gray_deep">#5c5c5c</color>
+    <color name="divider">#E5E5E5</color>
+    <color name="dividerss">#F7F7F7</color>
+    <color name="red_v3">#ef5853</color>
+    <color name="red_d74951">#d74951</color>
+    <color name="green_v1">#22ac38</color>
+    <color name="green_v2">#2fb76f</color>
+    <color name="green_v3">#52B9A8</color>
+    <color name="green_v4">#adf9ec</color>
+    <color name="green_v5">#52b9ab</color>
+    <color name="green_v6">#1aac19</color>
+    <color name="title_color">@color/mainColor</color>
+    <color name="dividers">#cacaca</color>
+    <color name="arc_blue">#10a679</color>
+    <color name="color_fff">#ffffff</color>
+    <color name="color_word">#888888</color>
+    <color name="color_word_true">#1aad19</color>
+
+    <color name="new_green">#00a96c</color>
+    <color name="new_read">#e85353</color>
+    <color name="jrmf_b_title_bar_color">#157efb</color>
+    <color name="jrmf_b_trans_title_bar_color">#88157efb</color>
+
+
+    <color name="jrmf_b_white">#FFFFFF</color>
+    <color name="jrmf_b_color_b7b7b7">#b7b7b7</color>
+    <color name="jrmf_b_blue">#3b93e9</color>
+    <color name="jrmf_b_transparent">#00000000</color>
+
+    <color name="jrmf_b_black">#3e3a39</color>
+    <color name="jrmf_b_gray">#ababab</color>
+    <color name="jrmf_b_red">#fe5c5c</color>
+
+
+
+
+
+    <!--状态栏-->
+    <color name="jrmf_rp_status_bar">#fe5c5c</color>
+    <!--转账页面状态栏-->
+    <color name="jrmf_rp_trans_status_bar">#0665d6</color>
+
+    <!--标题栏-->
+    <color name="jrmf_rp_title_bar">#E54141</color>
+
+    <color name="jrmf_rp_red">#fe5c5c</color>
+    <color name="jrmf_rp_red_trans">#88fe5c5c</color>
+
+    <!--背景色-->
+    <color name="jrmf_rp_background">#f1f1f3</color>
+
+    <color name="jrmf_rp_black">#000000</color>
+    <color name="jrmf_rp_transparent">#00000000</color>
+    <color name="jrmf_rp_white">#FFFFFF</color>
+
+    <color name="jrmf_rp_gray">#ababab</color>
+    <color name="color_a0a0a0">#a0a0a0</color>
+    <color name="color_535353">#535353</color>
+    <color name="color_c9c9c9">#c9c9c9</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="color_040000">#040000</color>
+    <color name="color_b7b7b7">#b7b7b7</color>
+    <color name="color_80c9c9c9">#80c9c9c9</color>
+    <color name="color_323232">#323232</color>
+    <color name="color_ff9893">#ff9893</color>
+    <color name="color_fed55a">#fed55a</color>
+    <color name="color_959595">#959595</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_fbfbfb">#fbfbfb</color>
+    <color name="color_7c7c7c">#7c7c7c</color>
+    <color name="color_5b6a91">#5b6a91</color>
+    <color name="color_434343">#434343</color>
+    <color name="color_80b5b5b5">#80b5b5b5</color>
+    <color name="color_22ac38">#22ac38</color>
+    <color name="color_818181">#818181</color>
+
+
+
+
+
+    <!--我的钱包  -->
+    <color name="jrmf_w_status_bar_color">#0665d6</color>
+    <!--标题栏-->
+    <color name="jrmf_w_title_bar_color">#157efb</color>
+    <color name="jrmf_w_trans_title_bar_color">#88157efb</color>
+
+    <!--充值提现的选择器颜色-->
+    <color name="jrmf_w_title_bar_dark_color">#0665d6</color>
+    <color name="jrmf_w_color_087efb">#0865fb</color>
+
+
+    <color name="jrmf_w_color_bg">#f1f1f3</color>
+
+    <color name="jrmf_w_color_b7b7b7">#b7b7b7</color>
+    <color name="jrmf_w_color_959595">#959595</color>
+    <color name="jrmf_w_color_c9c9c9">#c9c9c9</color>
+    <color name="jrmf_w_color_a0a0a0">#a0a0a0</color>
+    <color name="jrmf_w_color_b5b5b5">#b5b5b5</color>
+    <color name="jrmf_w_gray">#ababab</color>
+    <color name="jrmf_w_color_ededed">#ededed</color>
+    <color name="jrmf_w_black">#3e3a39</color>
+    <color name="jrmf_w_color_535353">#535353</color>
+    <color name="jrmf_w_color_03a9f4">#03a9f4</color>
+    <color name="jrmf_w_color_323232">#323232</color>
+    <color name="jrmf_w_color_1bfd00">#1bfd00</color>
+    <color name="jrmf_w_jrmf_w_red">#fe5c5c</color>
+    <color name="jrmf_w_red_dark">#e54141</color>
+    <color name="jrmf_w_color_fed55a">#fed55a</color>
+    <color name="jrmf_w_color_46a2fa">#46a2fa</color>
+    <color name="jrmf_w_color_040000">#040000</color>
+    <color name="jrmf_w_color_aaaaaa">#aaaaaa</color>
+    <color name="jrmf_w_color_80c9c9c9">#80c9c9c9</color>
+
+</resources>
